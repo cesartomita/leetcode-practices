@@ -2,7 +2,7 @@
 
 https://leetcode.com/studyplan/top-sql-50/
 
-| Problema                                                           | Nível  | Solucionado | Link       |
+| Problema                                                           | Nível  | Feito       | Solução    |
 |--------------------------------------------------------------------|--------|-------------|------------|
 | Select Recyclable and Low Fat Products                             | Easy   | ✅          | [Link](./01-recyclable-and-low-fat-products-1757.sql)  |
 | Find Customer Referee                                              | Easy   | ❌          | --- |
