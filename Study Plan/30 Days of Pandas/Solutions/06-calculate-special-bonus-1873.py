@@ -9,4 +9,4 @@ def calculate_special_bonus(employees: pd.DataFrame) -> pd.DataFrame:
         0
     )
 
-    return employees[["employee_id", "bonus"]].sort_values(["employee_id"])
+    return employees[["employee_id", "bonus"]].sort_values(["employee_id"])""
