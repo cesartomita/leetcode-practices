@@ -10,9 +10,9 @@ https://leetcode.com/studyplan/30-days-of-pandas/
 | Article Views I                                          | Easy   | ✅    | [Link](./Solutions/04-article-views-i-1148.py) |
 | Invalid Tweets                                           | Easy   | ✅    | [Link](./Solutions/05-invalidi-tweets-1683.py) |
 | Calculate Special Bonus                                  | Easy   | ✅    | [Link](./Solutions/06-calculate-special-bonus-1873.py) |
-| Fix Names in a Table                                     | Easy   | ✅    | [Link](./Solutions/07-fix-names-in-a-table-1667.py)     |
-| Find Users With Valid E-Mails                            | Easy   | ❌    | ---     |
-| Patients With a Condition                                | Easy   | ❌    | ---     |
+| Fix Names in a Table                                     | Easy   | ✅    | [Link](./Solutions/07-fix-names-in-a-table-1667.py) |
+| Find Users With Valid E-Mails                            | Easy   | ✅    | [Link](./Solutions/08-find-users-with-valid-e-mails-1517.py) |
+| Patients With a Condition                                | Easy   | ✅    | [Link](./Solutions/09-patients-with-a-condition.py) |
 | Count Occurrences in Text                                | Medium | ❌    | ---     |
 | Nth Highest Salary                                       | Medium | ❌    | ---     |
 | Second Highest Salary                                    | Medium | ❌    | ---     |
