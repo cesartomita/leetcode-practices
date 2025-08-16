@@ -13,9 +13,9 @@ https://leetcode.com/studyplan/30-days-of-pandas/
 | Fix Names in a Table                                     | Easy   | ✅    | [Link](./Solutions/07-fix-names-in-a-table-1667.py) |
 | Find Users With Valid E-Mails                            | Easy   | ✅    | [Link](./Solutions/08-find-users-with-valid-e-mails-1517.py) |
 | Patients With a Condition                                | Easy   | ✅    | [Link](./Solutions/09-patients-with-a-condition.py) |
-| Count Occurrences in Text                                | Medium | ❌    | ---     |
-| Nth Highest Salary                                       | Medium | ❌    | ---     |
-| Second Highest Salary                                    | Medium | ❌    | ---     |
+| Count Occurrences in Text                                | Medium | 🔒    | ---     |
+| Nth Highest Salary                                       | Medium | ✅    | [Link](./Solutions/11-nth-highest-salary.py) |
+| Second Highest Salary                                    | Medium | ✅    | [Link](./Solutions/12-second-highest-salary.py) |
 | Department Highest Salary                                | Medium | ❌    | ---     |
 | Rank Scores                                              | Medium | ❌    | ---     |
 | Delete Duplicate Emails                                  | Easy   | ❌    | ---     |
